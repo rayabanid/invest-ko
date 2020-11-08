@@ -1,6 +1,6 @@
 # InvestKo
 
-InvestKo is a simple app to buy and sell stock.
+InvestKo is a simple vuejs app to buy and sell stock.
 
 ### Build Setup
 
